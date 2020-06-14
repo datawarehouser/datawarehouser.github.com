@@ -29,7 +29,7 @@ title: 关于我
 <h3> 如何联系我 </h3>  
 
 <p> 
-email：pan740583913@gmail.com.com       
+email：pan740583913@gmail.com     
 <p> 
 qq: 740583913  
 <p> 
