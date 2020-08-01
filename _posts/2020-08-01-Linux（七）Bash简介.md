@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Bash简介
 date: 2020-08-01 
